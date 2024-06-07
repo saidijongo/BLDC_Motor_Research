@@ -9,3 +9,6 @@ https://ww1.microchip.com/downloads/cn/AppNotes/cn012037.pdf
 paper with Z8FMC1600 MCU
 http://www.zilog.com/docs/z8encoremc/appnotes/AN0260.pdf
 http://www.zilog.com/docs/appnotes/AN0361.pdf
+
+E-bike math model
+https://ijaseit.insightsociety.org/index.php/ijaseit/article/view/19415/4238
