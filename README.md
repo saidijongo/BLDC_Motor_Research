@@ -12,3 +12,6 @@ http://www.zilog.com/docs/appnotes/AN0361.pdf
 
 E-bike math model, thesis
 https://ijaseit.insightsociety.org/index.php/ijaseit/article/view/19415/4238
+
+matlab
+https://www.mathworks.com/help/slcontrol/ug/extremum-seeking-control.html
