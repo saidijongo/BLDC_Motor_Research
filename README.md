@@ -18,3 +18,4 @@ https://www.mathworks.com/help/slcontrol/ug/extremum-seeking-control.html
 
 BLDC motor to generator
 https://www.uumotor.com/faq/how-to-transfer-an-electric-bike-hub-motor-to-a-gernerator.html
+https://www.theverge.com/2021/9/2/22653697/schaeffler-free-drive-e-bike-system-chainless
