@@ -15,3 +15,6 @@ https://ijaseit.insightsociety.org/index.php/ijaseit/article/view/19415/4238
 
 matlab
 https://www.mathworks.com/help/slcontrol/ug/extremum-seeking-control.html
+
+BLDC motor to generator
+https://www.uumotor.com/faq/how-to-transfer-an-electric-bike-hub-motor-to-a-gernerator.html
