@@ -24,3 +24,6 @@ bldc motor working logic/Korean
 https://m.blog.naver.com/scwoo55/221791459687
 
 https://www.nxp.com/webapp/sps/download/preDownload.jsp
+
+e-bike battery
+https://myctns.com/131/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=16751650&t=board
