@@ -20,4 +20,7 @@ BLDC motor to generator
 https://www.uumotor.com/faq/how-to-transfer-an-electric-bike-hub-motor-to-a-gernerator.html
 https://www.theverge.com/2021/9/2/22653697/schaeffler-free-drive-e-bike-system-chainless
 
+bldc motor working logic/Korean
+https://m.blog.naver.com/scwoo55/221791459687
+
 https://www.nxp.com/webapp/sps/download/preDownload.jsp
