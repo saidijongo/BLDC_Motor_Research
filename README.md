@@ -35,6 +35,9 @@ https://myctns.com/131/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode
 
 https://cdn-reichelt.de/documents/datenblatt/A200/GD32F103XX-DATASHEET-REV-2.7.pdf
 
+bldc motor logic
+https://blog.naver.com/mechaminu/222470517959
+
 BLDC simulator
 http://grauonline.de/alexwww/motorsim/motorsim.html
 http://grauonline.de/alexwww/motorsim/motorsim.html
