@@ -25,6 +25,9 @@ https://m.blog.naver.com/scwoo55/221791459687
 
 https://www.nxp.com/webapp/sps/download/preDownload.jsp
 
+ebike thesis/draw
+https://www.researchgate.net/publication/330353560_Effective_design_and_analysis_of_PEDELec_E-bike_using_MBD_approach
+
 e-bike battery
 https://myctns.com/131/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=16751650&t=board
 
