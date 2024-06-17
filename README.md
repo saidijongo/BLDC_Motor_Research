@@ -37,6 +37,9 @@ https://cdn-reichelt.de/documents/datenblatt/A200/GD32F103XX-DATASHEET-REV-2.7.p
 
 bldc motor logic
 https://blog.naver.com/mechaminu/222470517959
+PCB
+https://deepbluembedded.com/stm32-esc-pcb-design-foc-esc-bldc-schematic/
+
 
 BLDC simulator
 http://grauonline.de/alexwww/motorsim/motorsim.html
