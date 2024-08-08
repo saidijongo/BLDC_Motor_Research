@@ -45,3 +45,6 @@ https://deepbluembedded.com/stm32-esc-pcb-design-foc-esc-bldc-schematic/
 BLDC simulator
 http://grauonline.de/alexwww/motorsim/motorsim.html
 http://grauonline.de/alexwww/motorsim/motorsim.html
+
+BLDC motor control logic/중요
+https://github.com/FedorBel/bldc-driver/tree/master
