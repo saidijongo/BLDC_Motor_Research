@@ -48,3 +48,6 @@ http://grauonline.de/alexwww/motorsim/motorsim.html
 
 BLDC motor control logic/중요
 https://github.com/FedorBel/bldc-driver/tree/master
+
+BLCD encoder sensor commutation logic
+https://forum.allaboutcircuits.com/attachments/commutation-pdf.299252/
