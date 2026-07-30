@@ -51,3 +51,5 @@ https://github.com/FedorBel/bldc-driver/tree/master
 
 BLCD encoder sensor commutation logic
 https://forum.allaboutcircuits.com/attachments/commutation-pdf.299252/
+
+New controller
