@@ -54,3 +54,6 @@ https://forum.allaboutcircuits.com/attachments/commutation-pdf.299252/
 
 New controller
 https://github.com/mcgill-robotics/Drone_Elec_2026
+
+Ebike block diagram
+https://www.edn.com/mcus-in-e-bikes-driving-lights-led-lcd-display-and-measurements/
