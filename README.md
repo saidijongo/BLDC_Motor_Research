@@ -61,3 +61,6 @@ https://www.edn.com/mcus-in-e-bikes-driving-lights-led-lcd-display-and-measureme
 Ref design
 Microchip e-Bike Traction Motor Control Reference Design or the Zilog Electric Bike BLDC Hub Motor Control Application Note.
 https://ww1.microchip.com/downloads/aemDocuments/documents/APID/ApplicationNotes/ApplicationNotes/AN5709-e-Bike-Traction-Motor-Control-Reference-Design-DS00005709.pdf
+
+regen braking
+https://www.ti.com/lit/ug/tidudt5b/tidudt5b.pdf?ts=1789437240439
