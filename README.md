@@ -53,3 +53,4 @@ BLCD encoder sensor commutation logic
 https://forum.allaboutcircuits.com/attachments/commutation-pdf.299252/
 
 New controller
+https://github.com/mcgill-robotics/Drone_Elec_2026
