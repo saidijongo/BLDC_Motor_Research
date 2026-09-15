@@ -64,3 +64,4 @@ https://ww1.microchip.com/downloads/aemDocuments/documents/APID/ApplicationNotes
 
 regen braking
 https://www.ti.com/lit/ug/tidudt5b/tidudt5b.pdf?ts=1789437240439
+https://static.chipdip.ru/lib2/b/147/DOC083147519.pdf
